@@ -1,4 +1,4 @@
-# Awesome-PhD-MS-Application
+# Awesome-PhD/MS-Application
 
 ## 目录
 
@@ -27,7 +27,6 @@
 -   [TOFEL\&IELTS\&GRE学习资料](#TOFELIELTSGRE学习资料)
 -   [Tools](#Tools)
 -   [其他](#其他)
--   [我的2025 Fall Robotics PhD Application之路](#我的2025-Fall-Robotics-PhD-Application之路)
 
 @Date: 2023.11.25
 
@@ -184,24 +183,3 @@ Video:
 ## 其他
 
 -   [魔法少女小圆其实讲的是PhD的故事](https://movie.douban.com/review/6180006/ "魔法少女小圆其实讲的是PhD的故事")
-
-## 我的2025 Fall Robotics PhD Application之路
-
--   2023.03.23: 投递简历到[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ "MSRA")
--   2023.05.15: MSRA面试（直接和mentor）
--   2023.05.24: 拿到MSRA Offer
--   2023.6.20: 正式入职[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ "MSRA")，[NLC](https://www.microsoft.com/en-us/research/group/natural-language-computing/ "NLC")组，mentor：[Shaohan Huang](https://www.microsoft.com/en-us/research/people/shaohanh/ "Shaohan Huang")
--   2023.10.19: 制作完自己的[CV](https://tx-leo.github.io/data/CV-Zhi%20Wang.pdf "CV")
--   2023.10.26: 制作完自己的[Homepage](https://tx-leo.github.io/ "Homepage"), [Github](https://github.com/TX-Leo "Github")
--   2023.10.26: 给[UIUC Prof.Wenzhen Yuan](https://cs.illinois.edu/about/people/all-faculty/yuanwz "UIUC Prof.Wenzhen Yuan")发陶瓷email
--   2023.10.27: Prof.Wenzhen Yuan 回复我可以面试
--   2023.10.29: 制作完自己的Slide for 面试
--   2023.10.30: 和Prof.Wenzhen Yuan全英面试50min，口语太烂啦。。。
--   2023.10.31: 给Prof.Wenzhen Yuan发了面试完的跟进邮件
--   2023.11.05: 又给Prof.Wenzhen Yuan发了一个Follow-up email
--   2023.11.07: Prof.Wenzhen Yuan给我发UIUC RA Offer了！
--   2023.11.09: 和外导联系上，开始办理J1签证
--   2023.11.20: KOSMOS-E text-image-3d-graspinfo dataset for GraspNet-1 Billion(6d\&rect)制作完成
--   2023.11.23: KOSMOS-E sim for GR-ConvNN(rect)pybullet 仿真跑通
--   2023.11.24: 冻结了中国银行卡里的8w来办资产证明纸质版
--   2023.11.25: 创建[Awesome-PhD-MS-Application](https://github.com/TX-Leo/Awesome-PhD-MS-Application "Awesome-PhD-MS-Application")仓库

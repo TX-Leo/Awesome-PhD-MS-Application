@@ -1,45 +1,47 @@
 # Awesome-PhD-MS-Application
 
-## 目录
-
--   [PhD/MS申请经验分享贴](#PhDMS申请经验分享贴)
--   [PhD/MS录取结果分享](#PhDMS录取结果分享)
--   [PhD/MS申请经验分享视频](#PhDMS申请经验分享视频)
--   [PhD/MS的那几年](#PhDMS的那几年)
--   [PhD/MS招生汇总](#PhDMS招生汇总)
--   [School/Lab/Prof排名网站](#SchoolLabProf排名网站)
--   [各大学校官方留学网站](#各大学校官方留学网站)
--   [著名留学网站](#著名留学网站)
--   [大佬的Homepage](#大佬的Homepage)
--   [大佬的CV](#大佬的CV)
--   [大佬的SOP](#大佬的SOP)
--   [大佬的Gallery](#大佬的Gallery)
--   [CV Templates](#CV-Templates)
--   [SOP Templates](#SOP-Templates)
--   [RL如何要推荐信&如何写推荐信](#RL如何要推荐信如何写推荐信)
--   [暑研\&RA](#暑研RA)
-    -   [暑研经验贴](#暑研经验贴)
-    -   [暑研陶瓷Email](#暑研陶瓷Email)
-    -   [暑研面试](#暑研面试)
-    -   [暑研财产证明](#暑研财产证明)
-    -   [暑研J1-Visa](#暑研J1-Visa)
-    -   [暑研银行卡](#暑研银行卡)
--   [TOFEL\&IELTS\&GRE学习资料](#TOFELIELTSGRE学习资料)
--   [Tools](#Tools)
--   [其他](#其他)
--   [我的2025 Fall Robotics PhD Application之路](#我的2025-Fall-Robotics-PhD-Application之路)
-
 @Date: 2023.11.25
 
-@Author: [Zhi Wang(Leo TX)](https://tx-leo.github.io/ "Zhi Wang(Leo TX)")
+@Author: [Zhi Wang(Leo TX)](#https://tx-leo.github.io/)
 
 @Email: <tx.leo.wz@gmail.com>
+
+## content
+
+- [Awesome-PhD-MS-Application](#awesome-phd-ms-application)
+  - [content](#content)
+  - [PhD/MS申请经验分享贴](#phdms申请经验分享贴)
+  - [PhD/MS录取结果分享](#phdms录取结果分享)
+  - [PhD/MS申请经验分享视频](#phdms申请经验分享视频)
+  - [PhD/MS的那几年](#phdms的那几年)
+  - [PhD/MS招生汇总](#phdms招生汇总)
+  - [School/Lab/Prof排名网站](#schoollabprof排名网站)
+  - [各大学校官方留学网站](#各大学校官方留学网站)
+  - [著名留学网站](#著名留学网站)
+  - [大佬的Homepage](#大佬的homepage)
+  - [大佬的CV](#大佬的cv)
+  - [大佬的SOP](#大佬的sop)
+  - [大佬的Gallery](#大佬的gallery)
+  - [CV Templates](#cv-templates)
+  - [SOP Templates](#sop-templates)
+  - [RL如何要推荐信\&如何写推荐信](#rl如何要推荐信如何写推荐信)
+  - [暑研\&RA](#暑研ra)
+    - [暑研经验贴](#暑研经验贴)
+    - [暑研陶瓷Email](#暑研陶瓷email)
+    - [暑研面试](#暑研面试)
+    - [暑研财产证明](#暑研财产证明)
+    - [暑研J1-Visa](#暑研j1-visa)
+    - [暑研银行卡](#暑研银行卡)
+  - [TOFEL\&IELTS\&GRE学习资料](#tofelieltsgre学习资料)
+  - [Tools](#tools)
+  - [其他](#其他)
+
 
 ## PhD/MS申请经验分享贴
 
 -   [Yao (Ava) Xiao @ UIUC: 2022 Fall CS PhD申请总结](https://avaxiao.github.io/blog/2022_Fall_CS_PhD_application/ "Yao (Ava) Xiao @ UIUC: 2022 Fall CS PhD申请总结")
 -   [Ziyi Wu吴紫屹 @ UofT: 2021 Fall 申请回忆录 (北美 CS PhD)](https://zhuanlan.zhihu.com/p/350439006 "Ziyi Wu吴紫屹 @ UofT: 2021 Fall 申请回忆录 (北美 CS PhD)")
--   [lan\_lan\_lan\_lan @ UT-Austin: 一个普通学生的PhD申请之路](https://mp.weixin.qq.com/s/5MCN4neLT34JR3kruq0xcA "lan_lan_lan_lan @ UT-Austin: 一个普通学生的PhD申请之路")
+-   [**lan\_lan\_lan\_lan**](https://mp.weixin.qq.com/s/5MCN4neLT34JR3kruq0xcA "lan_lan_lan_lan")[ @ UT-Austin: 一个普通学生的PhD申请之路](https://mp.weixin.qq.com/s/5MCN4neLT34JR3kruq0xcA " @ UT-Austin: 一个普通学生的PhD申请之路")
 -   [Jiayi Weng翁家翌 @ CMU: 申请回忆录](https://trinkle23897.github.io/posts/application "Jiayi Weng翁家翌 @ CMU: 申请回忆录")
 -   [Wei-Jer Chang @ Berkeley: 2021Fall美國機器人/機械領域博士班申請心得](https://jimmy7777kimo.wixsite.com/website/post/%E7%BE%8E%E5%9C%8B%E5%8D%9A%E5%A3%AB%E7%8F%AD%E7%94%B3%E8%AB%8B%E5%BF%83%E5%BE%97 "Wei-Jer Chang @ Berkeley: 2021Fall美國機器人/機械領域博士班申請心得")
 
@@ -79,7 +81,6 @@
 
 ## 各大学校官方留学网站
 
--   [UIUC: UIUC生存指南](https://github.com/Violet24K/HowToUIUC "UIUC: UIUC生存指南")
 -   [THU: 清华大学飞跃手册](https://feiyue.online/ "THU: 清华大学飞跃手册")
 -   [STJU: SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/untitled "STJU: SurviveSJTUManual")
 -   [HUST: 1037SurvivalBook](https://1037survival.gitbook.io/survive-in-1037-forest/ "HUST: 1037SurvivalBook")
@@ -184,24 +185,3 @@ Video:
 ## 其他
 
 -   [魔法少女小圆其实讲的是PhD的故事](https://movie.douban.com/review/6180006/ "魔法少女小圆其实讲的是PhD的故事")
-
-## 我的2025 Fall Robotics PhD Application之路
-
--   2023.03.23: 投递简历到[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ "MSRA")
--   2023.05.15: MSRA面试（直接和mentor）
--   2023.05.24: 拿到MSRA Offer
--   2023.6.20: 正式入职[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ "MSRA")，[NLC](https://www.microsoft.com/en-us/research/group/natural-language-computing/ "NLC")组，mentor：[Shaohan Huang](https://www.microsoft.com/en-us/research/people/shaohanh/ "Shaohan Huang")
--   2023.10.19: 制作完自己的[CV](https://tx-leo.github.io/data/CV-Zhi%20Wang.pdf "CV")
--   2023.10.26: 制作完自己的[Homepage](https://tx-leo.github.io/ "Homepage"), [Github](https://github.com/TX-Leo "Github")
--   2023.10.26: 给[UIUC Prof.Wenzhen Yuan](https://cs.illinois.edu/about/people/all-faculty/yuanwz "UIUC Prof.Wenzhen Yuan")发陶瓷email
--   2023.10.27: Prof.Wenzhen Yuan 回复我可以面试
--   2023.10.29: 制作完自己的Slide for 面试
--   2023.10.30: 和Prof.Wenzhen Yuan全英面试50min，口语太烂啦。。。
--   2023.10.31: 给Prof.Wenzhen Yuan发了面试完的跟进邮件
--   2023.11.05: 又给Prof.Wenzhen Yuan发了一个Follow-up email
--   2023.11.07: Prof.Wenzhen Yuan给我发UIUC RA Offer了！
--   2023.11.09: 和外导联系上，开始办理J1签证
--   2023.11.20: KOSMOS-E text-image-3d-graspinfo dataset for GraspNet-1 Billion(6d\&rect)制作完成
--   2023.11.23: KOSMOS-E sim for GR-ConvNN(rect)pybullet 仿真跑通
--   2023.11.24: 冻结了中国银行卡里的8w来办资产证明纸质版
--   2023.11.25: 创建[Awesome-PhD-MS-Application](https://github.com/TX-Leo/Awesome-PhD-MS-Application "Awesome-PhD-MS-Application")仓库
